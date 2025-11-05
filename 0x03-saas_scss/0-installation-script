@@ -1,0 +1,12 @@
+# Installation of SASS (Dart Sass)
+
+1. Checked Node.js and npm installation:
+   node -v
+   npm -v
+
+2. Installed SASS globally using npm:
+   npm install -g sass
+
+3. Verified installation:
+   sass --version
+   Output: 1.93.3 compiled with dart2js 3.9.4
