@@ -1,7 +1,0 @@
-Steps to install Sass locally on Windows:
-
-1. Created project folder '0x03-sass_scss' inside the 'alx-intermediate-frontend' repository.
-2. Initialized Node.js project using 'npm init -y'.
-3. Installed Dart Sass locally using 'npm install sass --save-dev'.
-4. Verified Sass installation with 'npx sass --version', which output the installed version.
-5. Sass is now ready to compile SCSS files in this project using 'npx sass input.scss output.css'.
