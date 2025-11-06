@@ -1,0 +1,16 @@
+# 0-installation-script
+
+1. Verified Node.js and npm installation:
+   $ node -v
+   v24.10.0
+   $ npm -v
+   11.6.1
+
+2. Installed SASS globally:
+   $ npm install -g sass
+
+3. Verified SASS installation:
+   $ sass --version
+   1.93.3 compiled with dart2js
+
+4. SASS successfully installed and ready for use.
